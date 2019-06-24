@@ -1,6 +1,6 @@
 name = 'maya'
 
-version = '2019.1.0'
+version = '2018.6.0'
 
 variants = [
     ['platform-windows', 'arch-AMD64']
