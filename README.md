@@ -1,4 +1,4 @@
 # OPCG Maya Package
-##### version: 2019
+##### version: 2018.06
 
 TODO:
